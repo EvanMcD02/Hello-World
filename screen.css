@@ -16,6 +16,15 @@ main {
 display: flex;
 }
 
+.details section{
+flex-grow: 1;
+flex-basis: 0;
+background: #eee;
+padding: 25px;
+border-radius: 20px;
+margin-top: 25px;
+}
+
 img {
     width: 100%;
 }
