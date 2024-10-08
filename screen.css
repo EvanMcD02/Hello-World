@@ -14,6 +14,7 @@ main {
 
 .details {
 display: flex;
+gap: 25px;
 }
 
 .details section{
@@ -27,4 +28,11 @@ margin-top: 25px;
 
 img {
     width: 100%;
+    border-radius: 20px;
+}
+h2 {
+    margin: 0;
+}
+p {
+    margin: 0;
 }
